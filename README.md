@@ -1,7 +1,7 @@
 
 Opá, bão? 👋
 
-Legal ter você dando uma olhada nos meus repositorios, não estou atuando em projeto open source ou algo do tipo, aqui você pode e ira encontrar projetos que eu uso para estudar, seja ele spring, java, php, c, c++, angular, react js, javascript, estrutura de dados, teste unitários, tdd e coisas do tipo, no geral tudo que envolva tecnologia. Eu gosto de aprender coisas novas, gosto de projetos desafiadores e estou em constante mudança, então eu não sou o tipo de programador que foca em uma linguagem apenas para me divertir. Para pagar minhas contas as coisas são diferentes, atualmente eu venho trabalhando com spring boot e aprendendo mais do mundo que rodeia todo o desenvolvimento web com Java. 
+Legal ter você dando uma olhada nos meus repositorios, não estou atuando em projeto open source ou algo do tipo, aqui você pode e ira encontrar projetos que eu uso para estudar, seja ele spring, java, php, c, c++, angular, react js, javascript, estrutura de dados, teste unitários, tdd e coisas do tipo, no geral tudo que envolva tecnologia. Eu gosto de aprender coisas novas, gosto de projetos desafiadores e estou em constante mudança, então eu não sou o tipo de programador que foca em uma linguagem apenas. Para pagar minhas contas as coisas são diferentes, atualmente eu venho trabalhando com spring boot e aprendendo mais do mundo que rodeia todo o desenvolvimento web com Java. 
 
 Alguns fatos interessantes sobre mim. 
 
