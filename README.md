@@ -5,7 +5,7 @@ Legal ter você dando uma olhada nos meus repositorios, não estou atuando em pr
 
 Alguns fatos interessantes sobre mim. 
 
-- Comecei minha vida profissional na faculdade. 
+- Comecei minha vida profissional na faculdade em 2014. 
 - Já tive duas empresas, entre elas uma startup voltada para o mundo de agronegócio e a segunda uma software house. 
 - Gosto da tecnologia pela inclusão que ela faz e sou evangelista, se alguém me disser que ta sem trabalho e sem rumo eu sempre indico um curso de desenvolvimento. 
 - Atualmente estou trabalhando no maior banco privado do pais, um laranjão que eu não preciso dizer o nome, você sabe, a marca é forte. 
